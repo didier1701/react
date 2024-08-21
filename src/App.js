@@ -8,7 +8,7 @@ function App() {
       
       {showEmployee ? (
         <>
-        <Employee/>
+        <Employee name="Magentle" role="intern" />
         <Employee/>
         <Employee/>
         <Employee/>
